@@ -4,7 +4,7 @@
 
 This project analyzes customer data from a mid-sized retail company to understand customer behavior, spending patterns, and engagement levels.
 
-Using statistical analysis and data visualization, the project identifies key customer segments and provides business recommendations to improve customer retention and reven
+Using statistical analysis and data visualization, the project identifies key customer segments and provides business recommendations to improve customer retention.
 
 ## Business Objective
 
